@@ -70,6 +70,17 @@ Contains hardware demonstrations and project testing videos.
 * Industrial Inspection
 * Educational Embedded Systems Projects
 
+
+## Simulation
+
+Simulation files are available in the Simulation folder.
+
+### Simulation Video
+
+Due to GitHub file size limitations, the simulation video is hosted on Google Drive:
+
+[Watch Simulation Video](https://drive.google.com/file/d/1fpL_WPFA5AlaDryKr1ElvNHYuxU1z_RB/view?usp=drive_link)
+
 ## Team Members
 Mina Naim
 Yassa Emad
