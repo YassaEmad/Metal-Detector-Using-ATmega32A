@@ -62,7 +62,6 @@ Contains hardware demonstrations and project testing videos.
 * Proteus
 * Embedded C
 * AVR Programming Tools
-* Microsoft Excel
 
 ## Applications
 
